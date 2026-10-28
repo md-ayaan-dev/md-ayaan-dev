@@ -1,7 +1,6 @@
-# 💫 About Me:
-About Me<br>.<br><br>🎓 BSc IT Student<br><br>💻 Learning Java, Python, PHP, DSA & Web Development<br><br>🌱 Currently learning: Advanced Full Stack Development<br><br>🌱 Continuous Learning: Constantly exploring new technologies, frameworks, and best practices in software development.<br><br>🧠 Solving Data Structures & Algorithms problems<br><br>🚀 Building projects and improving my development skills<br><br>📚 Always learning, building, and growing.
-
-
+## Hi 👋, I'm Mohammad Ayaan Ansari 
+## Front End Developer
+ Passionate about creating efficient, scalable, and intelligent solutions using technologies like PHP, JavaScript, Python, Java, , Tailwind Css.Proficient in database management (PostgreSQL,MySQl) . I thrive on challenging problems, particularly in data structures and algorithms, debugging and delivering clean, maintainable code
 ## 🌐 Socials
 
 <p align="left">
@@ -15,6 +14,8 @@ About Me<br>.<br><br>🎓 BSc IT Student<br><br>💻 Learning Java, Python, PHP,
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
+# 💫 About Me:
+About Me<br>.<br><br>🎓 BSc IT Student<br><br>💻 Learning Java, Python, PHP, DSA & Web Development<br><br>🌱 Currently learning: Advanced Full Stack Development<br><br>🌱 Continuous Learning: Constantly exploring new technologies, frameworks, and best practices in software development.<br><br>🧠 Solving Data Structures & Algorithms problems<br><br>🚀 Building projects and improving my development skills<br><br>📚 Always learning, building, and growing.
 
 
 # 💻 Tech Stack:
