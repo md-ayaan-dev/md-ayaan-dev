@@ -16,7 +16,7 @@
 </p>
 
 ## About Me:
-<br><br>🎓 BSc IT Student<br><br>💻 Learning Java, Python, PHP, DSA & Web Development<br><br>🌱 Currently learning: Advanced Full Stack Development<br><br>🌱 Continuous Learning: Constantly exploring new technologies, frameworks, and best practices in software development.<br><br>🧠 Solving Data Structures & Algorithms problems<br><br>🚀 Building projects and improving my development skills<br><br>📚 Always learning, building, and growing.
+<br>🎓 BSc IT Student<br><br>💻 Learning Java, Python, PHP, DSA & Web Development<br><br>🌱 Currently learning: Advanced Full Stack Development<br><br>🌱 Continuous Learning: Constantly exploring new technologies, frameworks, and best practices in software development.<br><br>🧠 Solving Data Structures & Algorithms problems<br><br>🚀 Building projects and improving my development skills<br><br>📚 Always learning, building, and growing.
 
 
 # 💻 Tech Stack:
